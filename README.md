@@ -80,5 +80,3 @@ See `requirements.txt` for the full list. Key packages:
 - The backend uses a local SQLite database (`rag_app.db`).
 - The LLM and RAG chain are configured in `langchain_utils.py`.
 
-## License
-Specify your license here (e.g., MIT, Apache 2.0, etc.).
